@@ -1,7 +1,7 @@
 # Entry 1: deciding on which topic to choose
 ##### 10/19/26
 
-Text
+choosing the topics
 
 [Next](entry02.md)
 
