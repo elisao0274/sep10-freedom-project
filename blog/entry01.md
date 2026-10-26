@@ -17,7 +17,7 @@ Some of the skills I've learned whilst doing my research on this topic was **Con
 
 **Dedication**
 
--Dedication is a very strong term. This topic that I've chosen is one example of dedication on my part. At first, I didn't really mind what topics were listed, I chose random ones. But, when we finally had to choose the topic we really wanted to be centered on, I had to take a moment to see which I could dedicate and could focus on the most. This is an important skill because I can freely express myself and I can explain more into detail something that I know I can succeed with.
+- Dedication is a very strong term. This topic that I've chosen is one example of dedication on my part. At first, I didn't really mind what topics were listed, I chose random ones. But, when we finally had to choose the topic we really wanted to be centered on, I had to take a moment to see which I could dedicate and could focus on the most. This is an important skill because I can freely express myself and I can explain more into detail something that I know I can succeed with.
 
 # What are the next steps?
 I'm mostly looking forward to making this project the best and can hopefully figure out why people use Artifical Intelligence! :-)
