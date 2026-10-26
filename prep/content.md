@@ -1,5 +1,5 @@
 # Content
-Topic: **X**
+Topic: **Photography + Videography**
 
 ## Overview/Introduction/Context
 * Text
