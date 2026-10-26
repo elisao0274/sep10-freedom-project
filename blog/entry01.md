@@ -12,10 +12,12 @@ As of now, I'm currently in the first stage of identifying a daily issue of our 
 Some of the skills I've learned whilst doing my research on this topic was **Concentartion** and **Dedication**
 
 **Concentration**
-Thinking back on my past years in school (specifically middle school), I would always rush projects because I never liked any of the topics my professors would assign. But, while looking through the lists of topics that we could do freely, I started to develop a deep sense of Concentration, something that happens once in a blue moon for me. This topic that I've chosen has impacted me by gaining all my attention onto it and deeply trying to investigate causes.
+
+- Thinking back on my past years in school (specifically middle school), I would always rush projects because I never liked any of the topics my professors would assign. But, while looking through the lists of topics that we could do freely, I started to develop a deep sense of Concentration, something that happens once in a blue moon for me. This topic that I've chosen has impacted me by gaining all my attention onto it and deeply trying to investigate causes.
 
 **Dedication**
-Dedication is a very strong term. This topic that I've chosen is one example of dedication on my part. At first, I didn't really mind what topics were listed, I chose random ones. But, when we finally had to choose the topic we really wanted to be centered on, I had to take a moment to see which I could dedicate and could focus on the most. This is an important skill because I can freely express myself and I can explain more into detail something that I know I can succeed with.
+
+-Dedication is a very strong term. This topic that I've chosen is one example of dedication on my part. At first, I didn't really mind what topics were listed, I chose random ones. But, when we finally had to choose the topic we really wanted to be centered on, I had to take a moment to see which I could dedicate and could focus on the most. This is an important skill because I can freely express myself and I can explain more into detail something that I know I can succeed with.
 
 # What are the next steps?
 I'm mostly looking forward to making this project the best and can hopefully figure out why people use Artifical Intelligence! :-)
