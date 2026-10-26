@@ -9,6 +9,8 @@ I chose this topic because I've been focused on photography for a long time. Eve
 As of now, I'm currently in the first stage of identifying a daily issue of our daily life. This issue is known as **Artifical Intelligence** or as we all know it, "AI". This is something that affects not only companies or important businesses, but it affects the art that people around the world have worked extremely hard for. The next thing I'm planning to do is to talk to others and get their opinion/thoughts on why people tend to use AI to photograph specific things.
 
 # Skills
+Some of the skills I've learned whilst doing my research on this topic was **Concentartion**, **Dedication** and **Connections**.
+**Concentration**
 [Next](entry02.md)
 
 [Home](../README.md)
