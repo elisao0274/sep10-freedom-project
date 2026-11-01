@@ -10,7 +10,7 @@
 
 - Another school that offers a major of photography is LaGuardia Community College. https://www.laguardia.edu/majors/photography/
 * Shows the courses students would have to take
-* Builds knowledge on how to use cameras
+*Builds knowledge on how to use cameras
 *  One of their examples of photography:
   <img src="https://d51xk5rb7ic32.cloudfront.net/wp-content/uploads/2025/03/living-shade-archive-queensbridge.webp" alt="LaGuardia Community College Hosts &#39;Living In The Shade: NYCHA Open Space  Past, Present, And Future&#39; – LaGuardia Community College"/>
 
