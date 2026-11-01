@@ -26,7 +26,7 @@
 
 - Vidoegraphy programs
     * Same program/school as photography
-     - https://www.nyfa.edu/film-school/
+    * https://www.nyfa.edu/film-school/
        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2e2E9XATELGKFKW-mVwXpRleL11s-ABdAmgkb9uHtSQ&amp;s=10" alt="12-Weekend Filmmaking for Teens Workshop II | NYFA"/>
 
 
