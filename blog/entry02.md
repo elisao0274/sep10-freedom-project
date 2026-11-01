@@ -2,7 +2,7 @@
 ##### 11/1/26
 
 ## First search
-- The first search I've done was named "Photography apps"
+- The first search I've done was named "Photography schools" https://www.nyfa.edu/photography-school/
 
 [Previous](entry01.md) | [Next](entry03.md)
 
