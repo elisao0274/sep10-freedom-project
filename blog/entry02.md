@@ -9,7 +9,7 @@
 
 
 - Another school that offers a major of photography is LaGuardia Community College. https://www.laguardia.edu/majors/photography/
-- Shows the courses students would have to take
+** Shows the courses students would have to take
 - Builds knowledge on how to use cameras
 - One of their examples of photography:
   <img src="https://d51xk5rb7ic32.cloudfront.net/wp-content/uploads/2025/03/living-shade-archive-queensbridge.webp" alt="LaGuardia Community College Hosts &#39;Living In The Shade: NYCHA Open Space  Past, Present, And Future&#39; – LaGuardia Community College"/>
@@ -17,13 +17,12 @@
 
 - For videography, I searched up "videography apps" and I stumbled into this, https://fivedayfilm.com/top-apps-for-filmmakers/
 - This provides the top 9 apps videographers use in order to perfect their video skills to their liking.
-- Also provides which phones each app is available on & the prices.
+- Also provides which hardware each app is available on & the prices.
 
 - While researching through "Videography apps" I also stumbled onto this website, https://www.filmicpro.com/
 - Shows which apps/websites use this app
 - Shows evidence on how to use this
-- Shows which app stores it's available on
- 
+- Runs on iOs & Andriod 
 
 
 [Previous](entry01.md) | [Next](entry03.md)
