@@ -1,7 +1,7 @@
 # Entry 2
-##### X/X/XX
+##### 11/1/26
 
-Text
+# My first search was "Photography Apps"
 
 [Previous](entry01.md) | [Next](entry03.md)
 
