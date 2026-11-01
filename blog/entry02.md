@@ -5,7 +5,8 @@
 - The first search I've done was named "Photography programs" and I clicked onto this website,  https://www.nyfa.edu/photography-school/
   * This provides several programs and degrees in order to perfect their dreams.
   * Professional photographers are in the scene in order to help out alumni's and their process of learning.
-  <img src="https://www.nyfa.edu/wp-content/uploads/2022/09/campus-new-york-630x425-1.jpg" alt="Workshops and Summer Camps in NYC | Camps | NYFA"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1p5uNH6dA_8YU5J-O5gK41Uol0hnmiK0GTye8PBCQIA&amp;s=10" alt="Why Attend A NYFA Short-Term Workshop"/>
+
 
 
 - Another school that offers a major of photography is LaGuardia Community College. https://www.laguardia.edu/majors/photography/
