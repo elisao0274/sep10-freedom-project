@@ -23,8 +23,8 @@
   * Shows which apps use this app.
   * Shows photo proof of how the app looks like & how it operates
   * The hardware it runs on is iOs and Andriod.
- 
-  - Vidoegraphy programs
+
+- Vidoegraphy programs
     * dueudu
 
 
