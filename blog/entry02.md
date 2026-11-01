@@ -20,9 +20,11 @@
   * Also shows which hardware it runs on. (Mac, PC, Iphone, Andriod).
 
 - While researching through "Videography apps" I also stumbled onto this website, https://www.filmicpro.com/
-  * eueyeyeye
+  * Shows which apps use this app.
+  * Shows photo proof of how the app looks like & how it operates
+  * The hardware it runs on is iOs and Andriod.
 
-- Runs on iOs & Andriod 
+
 
 
 [Previous](entry01.md) | [Next](entry03.md)
