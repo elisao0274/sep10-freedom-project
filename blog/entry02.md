@@ -25,7 +25,7 @@
   * The hardware it runs on is iOs and Andriod.
 
 - Vidoegraphy programs
-    *Same program/school as photography
+    * Same program/school as photography
    * didieidi
 
 
