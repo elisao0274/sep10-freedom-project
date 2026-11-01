@@ -16,12 +16,12 @@
 
 
 - For videography, I searched up "videography apps" and I stumbled into this, https://fivedayfilm.com/top-apps-for-filmmakers/
-  * eheheheh
-- Also provides which hardware each app is available on & the prices.
+  * Shows the top 9 apps videographers use
+  * Also shows which hardware it runs on. (Mac, PC, Iphone, Andriod).
 
 - While researching through "Videography apps" I also stumbled onto this website, https://www.filmicpro.com/
-- Shows which apps/websites use this app
-- Shows evidence on how to use this
+  * eueyeyeye
+
 - Runs on iOs & Andriod 
 
 
