@@ -26,7 +26,7 @@
 
 - Vidoegraphy programs
     * Same program/school as photography
-   * didieidi
+     - https://www.nyfa.edu/film-school/
 
 
 
