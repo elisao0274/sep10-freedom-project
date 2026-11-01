@@ -16,7 +16,7 @@
 
 
 - For videography, I searched up "videography apps" and I stumbled into this, https://fivedayfilm.com/top-apps-for-filmmakers/
-* Provides top 9 apps videographers use
+* An example of a photo someone took:
 - Also provides which hardware each app is available on & the prices.
 
 - While researching through "Videography apps" I also stumbled onto this website, https://www.filmicpro.com/
