@@ -8,8 +8,8 @@ Topic: **Photography + Videography**
 ## Part A: existing technology
 
 ##### Software
-* Tech
-  * Detail
+* ["Lightroom"] (https://www.adobe.com/products/photoshop-lightroom.html)
+  * Helps adjust the lighting and quality. 
   * [image text](image URL)
 
 ##### Hardware
