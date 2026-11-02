@@ -13,9 +13,10 @@ Topic: **Photography + Videography**
   * [image text](image URL)
 
 ##### Hardware
-* Tech
-  * Detail
-  * [image text](image URL)
+* Hasselblad Battery Charging hub
+  * Charges two batteries at the same time
+  * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8-W7WSOuVoDxukT_svOKyUGnIgOyxFGunoU7m9rpmg&amp;s" alt="Battery Charger Hub for X1D Camera"/>
+
 
 ## Part B: possible future technology
 * Idea
