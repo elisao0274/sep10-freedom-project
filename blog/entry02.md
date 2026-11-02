@@ -1,34 +1,5 @@
 # Entry 2
-##### 11/1/26
-
-## First search
-- The first search I've done was named "Photography programs" and I clicked onto this website,  https://www.nyfa.edu/photography-school/
-  * This provides several programs and degrees in order to perfect their dreams.
-  * Professional photographers are in the scene in order to help out alumni's and their process of learning.
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1p5uNH6dA_8YU5J-O5gK41Uol0hnmiK0GTye8PBCQIA&amp;s=10" alt="Why Attend A NYFA Short-Term Workshop"/>
-
-
-
-- Another school that offers a major of photography is LaGuardia Community College. https://www.laguardia.edu/majors/photography/
-  * Shows the courses students would have to take
-  * Builds knowledge on how to use camera
-  * An example of a photo someone took:
-  <img src="https://d51xk5rb7ic32.cloudfront.net/wp-content/uploads/2025/03/living-shade-archive-queensbridge.webp" alt="LaGuardia Community College Hosts &#39;Living In The Shade: NYCHA Open Space  Past, Present, And Future&#39; – LaGuardia Community College"/>
-
-
-- For videography, I searched up "videography apps" and I stumbled into this, https://fivedayfilm.com/top-apps-for-filmmakers/
-  * Shows the top 9 apps videographers use
-  * Also shows which hardware it runs on. (Mac, PC, Iphone, Andriod).
-
-- While researching through "Videography apps" I also stumbled onto this website, https://www.filmicpro.com/
-  * Shows which apps use this app.
-  * Shows photo proof of how the app looks like & how it operates
-  * The hardware it runs on is iOs and Andriod.
-
-- Vidoegraphy programs
-    * Same program/school as photography
-    * https://www.nyfa.edu/film-school/
-       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2e2E9XATELGKFKW-mVwXpRleL11s-ABdAmgkb9uHtSQ&amp;s=10" alt="12-Weekend Filmmaking for Teens Workshop II | NYFA"/>
+##### X/X/XX
 
 
 
