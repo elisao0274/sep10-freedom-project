@@ -2,8 +2,8 @@
 Topic: **Photography + Videography**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* What are the current hardware and software the photography industry uses
+* What future technology can benefit the photography industry?
 
 ## Part A: existing technology
 
