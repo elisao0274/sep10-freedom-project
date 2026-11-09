@@ -19,6 +19,13 @@ Topic: **Photography + Videography**
  * Offers help if people want to learn how to perfect their photos
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl3w0ziCCj2wbsGUmEDPgr-P2H78WLKFh9o5pwXL3G8Q&amp;s=10" alt="ACDSee Photo Studio Software | Photo Editing, Photo Management, Photo Editor, Digital Photography, Digital Asset Management, DAM"/>
 
+  * ["Photomator"](https://www.pixelmator.com/photomator/)
+  * Can easily adjust colors of photos to your liking
+  * Have to pay to use
+  * Avaliable only for apple users
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhy40Srnqu1RfbzPVSHWG3UU45LPknRivKF491HKgTKw&amp;s=10" alt="Photomator Photo Editor Now Available on Mac - MacRumors"/>
+
+
  *  ["NYC Photography School](https://www.icp.org/theschool/)
  *  Offers a one year program to learn
  *  Offers a youth program in case teenagers want to join & learn
