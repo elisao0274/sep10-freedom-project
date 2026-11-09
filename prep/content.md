@@ -13,6 +13,11 @@ Topic: **Photography + Videography**
   * Most photographers use this for the lighting & the realistic features It provides 
   * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn0sx--NSNpZTh0eu1M5DRJS9sRww7mpMgJ9tnf0Nxzg&amp;s=10" alt="Adobe Lightroom - YouTube"/>
  * ["ACDSee"](https://www.acdsee.com/en/index/?srsltid=AYCX9vKHt-CbQhUHJRQVTyBaKq3Xt5BpSeg04niwD_tIsKeQc8-681mf/)
+ * Photo editing software is provided so photos look professional
+ * Lists the amount of cameras use this app
+ * Offers help if people want to learn how to perfect their photos
+ * <img src=<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl3w0ziCCj2wbsGUmEDPgr-P2H78WLKFh9o5pwXL3G8Q&amp;s=10" alt="ACDSee Photo Studio Software | Photo Editing, Photo Management, Photo Editor, Digital Photography, Digital Asset Management, DAM"/>
+
 
 
 ##### Hardware
