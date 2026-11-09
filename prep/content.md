@@ -19,6 +19,8 @@ Topic: **Photography + Videography**
  * Offers help if people want to learn how to perfect their photos
  * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl3w0ziCCj2wbsGUmEDPgr-P2H78WLKFh9o5pwXL3G8Q&amp;s=10" alt="ACDSee Photo Studio Software | Photo Editing, Photo Management, Photo Editor, Digital Photography, Digital Asset Management, DAM"/>
 
+ *  ["NYC Photography School](https://www.icp.org/theschool/)
+
 
 
 ##### Hardware
