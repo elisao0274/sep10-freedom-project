@@ -9,7 +9,8 @@ Topic: **Photography + Videography**
 
 ##### Software
 * ["Lightroom"](https://www.adobe.com/products/photoshop-lightroom.html/)
-  * Helps adjust the lighting and quality. 
+  * Helps adjust the lighting and quality
+  * Most photographers use this for the lighting & the realistic features It provides 
   * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn0sx--NSNpZTh0eu1M5DRJS9sRww7mpMgJ9tnf0Nxzg&amp;s=10" alt="Adobe Lightroom - YouTube"/>
 
 
