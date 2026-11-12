@@ -39,6 +39,10 @@ Topic: **Photography + Videography**
 * ["Hasselblad Battery Charging hub"](https://www.samys.com/p/Battery-Chargers/CP.HB.00000392.01/Hasselblad-Battery-Charging-Hub-for-X-System/213838.html/)
   * Charges two batteries at the same time
   * <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-8-W7WSOuVoDxukT_svOKyUGnIgOyxFGunoU7m9rpmg&amp;s" alt="Battery Charger Hub for X1D Camera"/>
+  * ["ProPhotographySupply"](https://prophotosupply.com/collections/deals?page=2/)
+  * Gives camera options to purchase
+  * Offers discounts & descriptions of each individual camera & lenses
+    <img src="<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3egnk-EU1bcrnZLzZZpYtLBSjupkLMBjKHDIx4eHTFg&amp;s" alt="Pro Photo Supply | Cameras, Rentals &amp; Film Services for Creators"/>
 
 
 ## Part B: possible future technology
