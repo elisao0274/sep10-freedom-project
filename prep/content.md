@@ -47,10 +47,11 @@ Topic: **Photography + Videography**
   * very flexible & comes in multiple uses
   * can easily record on any devices (ex. GoPro)
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8heToXwraJA2vkb0jaMJ54ehjv9CNAvzeK3ynDXGulQ&amp;s=10" alt="Joby GorillaPod 5K Tripod review | Space"/>
+  
   * Speedlight
   * Portable & easy to use
   * Can be used for high-quality photography
-  * Not very expensive as other materials for photgraphy
+  * Not very expensive as other materials for photography
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOB1JKsLDAEDZTj6vqnwpcT4SYZAZeJ_Wyc_AqRkt4UA&amp;s=10" alt="Amazon.com : Godox V1Mid-F Camera Flash for Fuji,55Ws TTL Speedlight with Touchscreen | 2.4G wireless System,HSS 1/8000s 1.7s recycle,650 full-power flashes : Electronics"/>
 
 
