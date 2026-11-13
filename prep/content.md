@@ -43,6 +43,11 @@ Topic: **Photography + Videography**
   * Gives camera options to purchase
   * Offers discounts & descriptions of each individual camera & lenses
   "<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3egnk-EU1bcrnZLzZZpYtLBSjupkLMBjKHDIx4eHTFg&amp;s" alt="Pro Photo Supply | Cameras, Rentals &amp; Film Services for Creators"/>
+  * Jody Gorillapod
+  * very flexible & comes in multiple uses
+  * can easily record on any devices (ex. GoPro)
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8heToXwraJA2vkb0jaMJ54ehjv9CNAvzeK3ynDXGulQ&amp;s=10" alt="Joby GorillaPod 5K Tripod review | Space"/>
+
 
 
 ## Part B: possible future technology
