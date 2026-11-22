@@ -6,6 +6,7 @@ My latest research I've done has instructed me which apps photographers mostly r
 
 The search that I've done to find the apps was "What kind of software do photographers use?" And eventually this website came up, ["Paige Tingey"](https://paigetingeyphotography.com/best-photo-editing-software-for-photographers/#elementor-toc__heading-anchor-3) It listed the apps that this individual has used in order to perfect her photography. Adobe Lightroom was the first one to come up and after a brief investigation, I've learned how it helps with the quality, the speed and the tools it provides. 
 
+##### Synthesize
 
 
 
