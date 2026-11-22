@@ -7,7 +7,9 @@ My latest research I've done has instructed me which apps photographers mostly r
 The search that I've done to find the apps was "What kind of software do photographers use?" And eventually this website came up, ["Paige Tingey"](https://paigetingeyphotography.com/best-photo-editing-software-for-photographers/#elementor-toc__heading-anchor-3) It listed the apps that this individual has used in order to perfect her photography. Adobe Lightroom was the first one to come up and after a brief investigation, I've learned how it helps with the quality, the speed and the tools it provides. 
 
 ##### Synthesize
-Another category that I've looked up were the type of equipments photographers used. The one thing I searched up was "Photography hardware" and this was the first website that came up, ["Samy's camera"](https://www.samys.com/c/Photography/1/113.html?srsltid=AYCX9vKDTmQapdOujZ524cOd6hPyBl_ict4J1TaXwwyjGuu2GToTYorJ). This gave several options of what equipments one wanted to use, the price and what their meant for. The two items I've chosen were ["Hasselblad Battery Charging Hub"](https://www.samys.com/p/Battery-Chargers/CP.HB.00000392.01/Hasselblad-Battery-Charging-Hub-for-X-System/213838.html) and ["Godox Speed light"](https://www.samys.com/p/Flashes/V1-CU/Godox-V1-Round-Head-Flash-Speedlight-for-Canon/209014.html) 
+Another category that I've looked up were the type of equipments photographers used. Originally, I wanted to list them by the year each item came out by, but I instead went for which item is more relevant and the store one can usually find them in. In my personal opinion, I felt as if this would be an easier concept to read so there wouldn't be any confusion and so people could have an idea of what item is more important and the exact use for it. 
+
+# Sources
 
 
 
