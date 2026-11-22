@@ -14,6 +14,7 @@ To figure out how to check the equipment for photography, I searched up "Photogr
 
 After, I went to go search for another website, and I came across this,[ProPhotoSupply](https://prophotosupply.com/) and this also had a lot of equipment listed. That's when I found the item, the [Jody Gorillapod](https://prophotosupply.com/search?q=jody+gorillapod&options%5Bprefix%5D=last)
 
+# EDP (Engineering Design Process)
 
 [Previous](entry01.md) | [Next](entry03.md)
 
