@@ -16,6 +16,7 @@ After, I went to go search for another website, and I came across this,[ProPhoto
 
 # EDP (Engineering Design Process)
 Now, I'm going to try to figure out how 
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
