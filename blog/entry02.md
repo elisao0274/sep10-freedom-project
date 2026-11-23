@@ -17,6 +17,11 @@ After, I went to go search for another website, and I came across this,[ProPhoto
 # EDP (Engineering Design Process)
 Now, my main priority is to figure out how to make my future website look professional and how to make it more interesting so it can gain more attention. My research with the equipment's of photography is only one step, it showed dedication and that's the main idea i'm trying to go for. 
 
+# Skills
+The skills I feel that I've gained while doing my search is..
+
+##### Consciousness 
+I've never put thought into most of the objects included in photography, in my world I always thought it was only cameras. But, deeply searching made me realize the amount of equipment that is really needed in order to perfect & make a scenario very memorablr and sensational 
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
