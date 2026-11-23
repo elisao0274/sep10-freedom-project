@@ -27,6 +27,9 @@ I've never put thought into most of the objects included in photography, in my w
 The know research that I came across, the more interested I became. My knowledge in this topic has increased a lot because it has shown me the amount of time and the amount of education a photographer simply needs in order to gain control of a camera.
 
 # Professionalism
+The professionalism that I've gained is to deeply focus onto my topic and to question myself why so I can research more about the topic. My main thought was "why are cameras mostly used for events?" and it's simply because It obtains every bit of energy that a scenario has.
+
+ 
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
